@@ -17,7 +17,7 @@ on:
     paths:
       - '**.js'
   pull_request:
-    branches: [main]
+    branches: [master]
 
   # schedule:
   # * is a special character in YAML so you have to quote this string
